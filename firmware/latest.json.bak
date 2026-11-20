@@ -1,6 +1,25 @@
 {
-    "version":  "8.7",
-    "url":  "https://gazukdevi.github.io/uk-transport-images/firmware/UK_Transport_Tracker_v8_7.ino.bin",
-    "size":  1498480,
-    "md5":  "e9a1c3739c34838b8d663e742c40a2cb"
+    "version":  "0.5.3",
+    "url":  "https://gazukdevi.github.io/uk-transport-images/firmware/launcher.bin",
+    "size":  1224496,
+    "md5":  "bb1222183cd9cd5f88857394bcc86117"
 }
+{
+    "version":  "9.10",
+    "url":  "https://gazukdevi.github.io/uk-transport-images/firmware/train.bin",
+    "size":  1293056,
+    "md5":  "17dcaacd6c0ac82f96e6160200e6bdd2"
+}
+{
+    "version":  "9.10",
+    "url":  "https://gazukdevi.github.io/uk-transport-images/firmware/bus.bin",
+    "size":  1362576,
+    "md5":  "8e0280bf2ed559dc1cd76daa4a9492d5"
+}
+{
+    "version":  "4.3.7",
+    "url":  "https://gazukdevi.github.io/uk-transport-images/firmware/aircraft.bin",
+    "size":  1269088,
+    "md5":  "518ad08796c462bd64ae7fded52e6757"
+}
+
