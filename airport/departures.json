@@ -1,0 +1,25 @@
+{
+  "airport": "MAN",
+  "flights": [
+    {
+      "time": "08:15",
+      "flight": "DEMO01",
+      "destination": "Example City",
+      "terminal": "1",
+      "gate": "A1",
+      "status": "DEMO ONLY",
+      "airline": "Example Airline",
+      "estimated": "08:15"
+    },
+    {
+      "time": "08:40",
+      "flight": "DEMO02",
+      "destination": "Example Town",
+      "terminal": "2",
+      "gate": "B4",
+      "status": "DEMO ONLY",
+      "airline": "Example Airline",
+      "estimated": "08:40"
+    }
+  ]
+}
