@@ -19,10 +19,10 @@
     "md5":  "49a95238845d9bc9f17637c3d5079a0a"
     },
       "aircraft": {
-    "version":  "4.3.11",
+    "version":  "4.3.12",
     "url":  "https://gazukdevi.github.io/uk-transport-images/firmware/aircraft.bin",
-    "size":  1294208,
-    "md5":  "eb1389da2497e5c125997ea1b0473757"
+    "size":  1294832,
+    "md5":  "8a4ac2e59f9245de1c81d0a664f91024"
     },
       "launcher_updater": {
     "version":  "0.1.0",
