@@ -1,0 +1,950 @@
+{
+  "format": "OurAirports tab-separated index v1",
+  "total": 5282,
+  "countries": {
+    "AE": {
+      "offset": 0,
+      "count": 12
+    },
+    "AF": {
+      "offset": 687,
+      "count": 9
+    },
+    "AG": {
+      "offset": 1225,
+      "count": 2
+    },
+    "AI": {
+      "offset": 1358,
+      "count": 1
+    },
+    "AL": {
+      "offset": 1428,
+      "count": 3
+    },
+    "AM": {
+      "offset": 1605,
+      "count": 3
+    },
+    "AO": {
+      "offset": 1769,
+      "count": 22
+    },
+    "AQ": {
+      "offset": 2916,
+      "count": 6
+    },
+    "AR": {
+      "offset": 3228,
+      "count": 73
+    },
+    "AS": {
+      "offset": 7878,
+      "count": 1
+    },
+    "AT": {
+      "offset": 7943,
+      "count": 9
+    },
+    "AU": {
+      "offset": 8406,
+      "count": 193
+    },
+    "AW": {
+      "offset": 18406,
+      "count": 1
+    },
+    "AZ": {
+      "offset": 18473,
+      "count": 14
+    },
+    "BA": {
+      "offset": 19210,
+      "count": 4
+    },
+    "BB": {
+      "offset": 19451,
+      "count": 1
+    },
+    "BD": {
+      "offset": 19519,
+      "count": 9
+    },
+    "BE": {
+      "offset": 19996,
+      "count": 11
+    },
+    "BF": {
+      "offset": 20580,
+      "count": 2
+    },
+    "BG": {
+      "offset": 20712,
+      "count": 9
+    },
+    "BH": {
+      "offset": 21158,
+      "count": 2
+    },
+    "BI": {
+      "offset": 21264,
+      "count": 2
+    },
+    "BJ": {
+      "offset": 21388,
+      "count": 1
+    },
+    "BL": {
+      "offset": 21456,
+      "count": 1
+    },
+    "BM": {
+      "offset": 21504,
+      "count": 1
+    },
+    "BN": {
+      "offset": 21567,
+      "count": 1
+    },
+    "BO": {
+      "offset": 21626,
+      "count": 20
+    },
+    "BQ": {
+      "offset": 22889,
+      "count": 3
+    },
+    "BR": {
+      "offset": 23066,
+      "count": 138
+    },
+    "BS": {
+      "offset": 32005,
+      "count": 28
+    },
+    "BT": {
+      "offset": 33539,
+      "count": 2
+    },
+    "BW": {
+      "offset": 33642,
+      "count": 7
+    },
+    "BY": {
+      "offset": 34054,
+      "count": 10
+    },
+    "BZ": {
+      "offset": 34564,
+      "count": 9
+    },
+    "CA": {
+      "offset": 35066,
+      "count": 250
+    },
+    "CC": {
+      "offset": 49065,
+      "count": 1
+    },
+    "CD": {
+      "offset": 49128,
+      "count": 21
+    },
+    "CF": {
+      "offset": 50145,
+      "count": 2
+    },
+    "CG": {
+      "offset": 50258,
+      "count": 6
+    },
+    "CH": {
+      "offset": 50586,
+      "count": 13
+    },
+    "CI": {
+      "offset": 51194,
+      "count": 7
+    },
+    "CK": {
+      "offset": 51555,
+      "count": 1
+    },
+    "CL": {
+      "offset": 51620,
+      "count": 33
+    },
+    "CM": {
+      "offset": 53576,
+      "count": 10
+    },
+    "CN": {
+      "offset": 54093,
+      "count": 335
+    },
+    "CO": {
+      "offset": 73236,
+      "count": 60
+    },
+    "CR": {
+      "offset": 76589,
+      "count": 17
+    },
+    "CU": {
+      "offset": 77513,
+      "count": 25
+    },
+    "CV": {
+      "offset": 78984,
+      "count": 6
+    },
+    "CW": {
+      "offset": 79352,
+      "count": 1
+    },
+    "CX": {
+      "offset": 79410,
+      "count": 1
+    },
+    "CY": {
+      "offset": 79481,
+      "count": 5
+    },
+    "CZ": {
+      "offset": 79750,
+      "count": 14
+    },
+    "DE": {
+      "offset": 80478,
+      "count": 75
+    },
+    "DJ": {
+      "offset": 84313,
+      "count": 1
+    },
+    "DK": {
+      "offset": 84368,
+      "count": 17
+    },
+    "DM": {
+      "offset": 85247,
+      "count": 2
+    },
+    "DO": {
+      "offset": 85351,
+      "count": 10
+    },
+    "DZ": {
+      "offset": 85975,
+      "count": 39
+    },
+    "EC": {
+      "offset": 88220,
+      "count": 17
+    },
+    "EE": {
+      "offset": 89341,
+      "count": 6
+    },
+    "EG": {
+      "offset": 89627,
+      "count": 33
+    },
+    "EH": {
+      "offset": 91466,
+      "count": 4
+    },
+    "ER": {
+      "offset": 91673,
+      "count": 3
+    },
+    "ES": {
+      "offset": 91850,
+      "count": 55
+    },
+    "ET": {
+      "offset": 94791,
+      "count": 16
+    },
+    "FI": {
+      "offset": 95617,
+      "count": 31
+    },
+    "FJ": {
+      "offset": 97116,
+      "count": 3
+    },
+    "FK": {
+      "offset": 97284,
+      "count": 1
+    },
+    "FM": {
+      "offset": 97360,
+      "count": 4
+    },
+    "FO": {
+      "offset": 97593,
+      "count": 1
+    },
+    "FR": {
+      "offset": 97638,
+      "count": 135
+    },
+    "GA": {
+      "offset": 105232,
+      "count": 11
+    },
+    "GB": {
+      "offset": 105841,
+      "count": 88
+    },
+    "GD": {
+      "offset": 110157,
+      "count": 1
+    },
+    "GE": {
+      "offset": 110225,
+      "count": 12
+    },
+    "GF": {
+      "offset": 110906,
+      "count": 4
+    },
+    "GG": {
+      "offset": 111147,
+      "count": 2
+    },
+    "GH": {
+      "offset": 111241,
+      "count": 6
+    },
+    "GI": {
+      "offset": 111550,
+      "count": 1
+    },
+    "GL": {
+      "offset": 111598,
+      "count": 10
+    },
+    "GM": {
+      "offset": 112118,
+      "count": 1
+    },
+    "GN": {
+      "offset": 112178,
+      "count": 1
+    },
+    "GP": {
+      "offset": 112250,
+      "count": 2
+    },
+    "GQ": {
+      "offset": 112370,
+      "count": 4
+    },
+    "GR": {
+      "offset": 112614,
+      "count": 29
+    },
+    "GT": {
+      "offset": 114432,
+      "count": 7
+    },
+    "GU": {
+      "offset": 114807,
+      "count": 2
+    },
+    "GW": {
+      "offset": 114934,
+      "count": 1
+    },
+    "GY": {
+      "offset": 115002,
+      "count": 4
+    },
+    "HK": {
+      "offset": 115229,
+      "count": 2
+    },
+    "HN": {
+      "offset": 115339,
+      "count": 8
+    },
+    "HR": {
+      "offset": 115804,
+      "count": 9
+    },
+    "HT": {
+      "offset": 116268,
+      "count": 6
+    },
+    "HU": {
+      "offset": 116621,
+      "count": 10
+    },
+    "ID": {
+      "offset": 117156,
+      "count": 83
+    },
+    "IE": {
+      "offset": 121938,
+      "count": 10
+    },
+    "IL": {
+      "offset": 122412,
+      "count": 9
+    },
+    "IM": {
+      "offset": 122883,
+      "count": 1
+    },
+    "IN": {
+      "offset": 122933,
+      "count": 141
+    },
+    "IO": {
+      "offset": 130727,
+      "count": 1
+    },
+    "IQ": {
+      "offset": 130793,
+      "count": 30
+    },
+    "IR": {
+      "offset": 132430,
+      "count": 64
+    },
+    "IS": {
+      "offset": 135781,
+      "count": 13
+    },
+    "IT": {
+      "offset": 136479,
+      "count": 73
+    },
+    "JE": {
+      "offset": 140641,
+      "count": 1
+    },
+    "JM": {
+      "offset": 140686,
+      "count": 5
+    },
+    "JO": {
+      "offset": 140979,
+      "count": 5
+    },
+    "JP": {
+      "offset": 141281,
+      "count": 108
+    },
+    "KE": {
+      "offset": 146910,
+      "count": 18
+    },
+    "KG": {
+      "offset": 147821,
+      "count": 7
+    },
+    "KH": {
+      "offset": 148189,
+      "count": 7
+    },
+    "KI": {
+      "offset": 148614,
+      "count": 4
+    },
+    "KM": {
+      "offset": 148844,
+      "count": 3
+    },
+    "KN": {
+      "offset": 149025,
+      "count": 2
+    },
+    "KP": {
+      "offset": 149165,
+      "count": 17
+    },
+    "KR": {
+      "offset": 150028,
+      "count": 24
+    },
+    "KW": {
+      "offset": 151405,
+      "count": 3
+    },
+    "KY": {
+      "offset": 151567,
+      "count": 3
+    },
+    "KZ": {
+      "offset": 151774,
+      "count": 28
+    },
+    "LA": {
+      "offset": 153360,
+      "count": 6
+    },
+    "LB": {
+      "offset": 153707,
+      "count": 4
+    },
+    "LC": {
+      "offset": 153924,
+      "count": 2
+    },
+    "LK": {
+      "offset": 154047,
+      "count": 10
+    },
+    "LR": {
+      "offset": 154620,
+      "count": 3
+    },
+    "LS": {
+      "offset": 154786,
+      "count": 1
+    },
+    "LT": {
+      "offset": 154852,
+      "count": 7
+    },
+    "LU": {
+      "offset": 155236,
+      "count": 1
+    },
+    "LV": {
+      "offset": 155305,
+      "count": 4
+    },
+    "LY": {
+      "offset": 155514,
+      "count": 13
+    },
+    "MA": {
+      "offset": 156189,
+      "count": 19
+    },
+    "MD": {
+      "offset": 157210,
+      "count": 5
+    },
+    "ME": {
+      "offset": 157492,
+      "count": 2
+    },
+    "MF": {
+      "offset": 157614,
+      "count": 1
+    },
+    "MG": {
+      "offset": 157677,
+      "count": 23
+    },
+    "MH": {
+      "offset": 158840,
+      "count": 2
+    },
+    "MK": {
+      "offset": 158962,
+      "count": 2
+    },
+    "ML": {
+      "offset": 159086,
+      "count": 5
+    },
+    "MM": {
+      "offset": 159353,
+      "count": 22
+    },
+    "MN": {
+      "offset": 160402,
+      "count": 14
+    },
+    "MO": {
+      "offset": 161157,
+      "count": 1
+    },
+    "MP": {
+      "offset": 161216,
+      "count": 3
+    },
+    "MQ": {
+      "offset": 161421,
+      "count": 1
+    },
+    "MR": {
+      "offset": 161500,
+      "count": 4
+    },
+    "MS": {
+      "offset": 161745,
+      "count": 1
+    },
+    "MT": {
+      "offset": 161800,
+      "count": 1
+    },
+    "MU": {
+      "offset": 161858,
+      "count": 3
+    },
+    "MV": {
+      "offset": 162044,
+      "count": 7
+    },
+    "MW": {
+      "offset": 162442,
+      "count": 5
+    },
+    "MX": {
+      "offset": 162701,
+      "count": 71
+    },
+    "MY": {
+      "offset": 167926,
+      "count": 29
+    },
+    "MZ": {
+      "offset": 169425,
+      "count": 16
+    },
+    "NA": {
+      "offset": 170234,
+      "count": 14
+    },
+    "NC": {
+      "offset": 170945,
+      "count": 9
+    },
+    "NE": {
+      "offset": 171397,
+      "count": 6
+    },
+    "NF": {
+      "offset": 171703,
+      "count": 1
+    },
+    "NG": {
+      "offset": 171772,
+      "count": 29
+    },
+    "NI": {
+      "offset": 173464,
+      "count": 3
+    },
+    "NL": {
+      "offset": 173650,
+      "count": 14
+    },
+    "NO": {
+      "offset": 174368,
+      "count": 43
+    },
+    "NP": {
+      "offset": 176608,
+      "count": 9
+    },
+    "NR": {
+      "offset": 177100,
+      "count": 1
+    },
+    "NU": {
+      "offset": 177159,
+      "count": 1
+    },
+    "NZ": {
+      "offset": 177219,
+      "count": 38
+    },
+    "OM": {
+      "offset": 179212,
+      "count": 9
+    },
+    "PA": {
+      "offset": 179685,
+      "count": 9
+    },
+    "PE": {
+      "offset": 180285,
+      "count": 31
+    },
+    "PF": {
+      "offset": 182552,
+      "count": 26
+    },
+    "PG": {
+      "offset": 183846,
+      "count": 21
+    },
+    "PH": {
+      "offset": 184894,
+      "count": 57
+    },
+    "PK": {
+      "offset": 188033,
+      "count": 39
+    },
+    "PL": {
+      "offset": 190128,
+      "count": 27
+    },
+    "PM": {
+      "offset": 191676,
+      "count": 1
+    },
+    "PR": {
+      "offset": 191743,
+      "count": 9
+    },
+    "PT": {
+      "offset": 192333,
+      "count": 31
+    },
+    "PW": {
+      "offset": 193936,
+      "count": 1
+    },
+    "PY": {
+      "offset": 194003,
+      "count": 14
+    },
+    "QA": {
+      "offset": 194970,
+      "count": 3
+    },
+    "RE": {
+      "offset": 195133,
+      "count": 2
+    },
+    "RO": {
+      "offset": 195250,
+      "count": 21
+    },
+    "RS": {
+      "offset": 196594,
+      "count": 5
+    },
+    "RU": {
+      "offset": 196859,
+      "count": 255
+    },
+    "RW": {
+      "offset": 210165,
+      "count": 3
+    },
+    "SA": {
+      "offset": 210316,
+      "count": 40
+    },
+    "SB": {
+      "offset": 212650,
+      "count": 2
+    },
+    "SC": {
+      "offset": 212756,
+      "count": 2
+    },
+    "SD": {
+      "offset": 212872,
+      "count": 10
+    },
+    "SE": {
+      "offset": 213377,
+      "count": 46
+    },
+    "SG": {
+      "offset": 215717,
+      "count": 6
+    },
+    "SH": {
+      "offset": 216010,
+      "count": 2
+    },
+    "SI": {
+      "offset": 216128,
+      "count": 4
+    },
+    "SK": {
+      "offset": 216350,
+      "count": 7
+    },
+    "SL": {
+      "offset": 216724,
+      "count": 4
+    },
+    "SN": {
+      "offset": 216914,
+      "count": 10
+    },
+    "SO": {
+      "offset": 217453,
+      "count": 5
+    },
+    "SR": {
+      "offset": 217728,
+      "count": 1
+    },
+    "SS": {
+      "offset": 217799,
+      "count": 4
+    },
+    "ST": {
+      "offset": 217998,
+      "count": 2
+    },
+    "SV": {
+      "offset": 218104,
+      "count": 2
+    },
+    "SX": {
+      "offset": 218271,
+      "count": 1
+    },
+    "SY": {
+      "offset": 218341,
+      "count": 10
+    },
+    "SZ": {
+      "offset": 218869,
+      "count": 2
+    },
+    "TC": {
+      "offset": 219000,
+      "count": 4
+    },
+    "TD": {
+      "offset": 219240,
+      "count": 5
+    },
+    "TG": {
+      "offset": 219490,
+      "count": 2
+    },
+    "TH": {
+      "offset": 219616,
+      "count": 43
+    },
+    "TJ": {
+      "offset": 221865,
+      "count": 7
+    },
+    "TL": {
+      "offset": 222245,
+      "count": 4
+    },
+    "TM": {
+      "offset": 222565,
+      "count": 8
+    },
+    "TN": {
+      "offset": 223042,
+      "count": 12
+    },
+    "TO": {
+      "offset": 223792,
+      "count": 3
+    },
+    "TR": {
+      "offset": 223974,
+      "count": 68
+    },
+    "TT": {
+      "offset": 227558,
+      "count": 2
+    },
+    "TV": {
+      "offset": 227687,
+      "count": 1
+    },
+    "TW": {
+      "offset": 227749,
+      "count": 20
+    },
+    "TZ": {
+      "offset": 228873,
+      "count": 12
+    },
+    "UA": {
+      "offset": 229499,
+      "count": 36
+    },
+    "UG": {
+      "offset": 231547,
+      "count": 5
+    },
+    "UM": {
+      "offset": 231785,
+      "count": 2
+    },
+    "US": {
+      "offset": 231885,
+      "count": 917
+    },
+    "UY": {
+      "offset": 288045,
+      "count": 7
+    },
+    "UZ": {
+      "offset": 288566,
+      "count": 12
+    },
+    "VC": {
+      "offset": 289262,
+      "count": 5
+    },
+    "VE": {
+      "offset": 289535,
+      "count": 50
+    },
+    "VG": {
+      "offset": 292600,
+      "count": 2
+    },
+    "VI": {
+      "offset": 292726,
+      "count": 2
+    },
+    "VN": {
+      "offset": 292835,
+      "count": 22
+    },
+    "VU": {
+      "offset": 294075,
+      "count": 4
+    },
+    "WF": {
+      "offset": 294309,
+      "count": 1
+    },
+    "WS": {
+      "offset": 294357,
+      "count": 1
+    },
+    "XK": {
+      "offset": 294420,
+      "count": 1
+    },
+    "YE": {
+      "offset": 294495,
+      "count": 10
+    },
+    "YT": {
+      "offset": 295048,
+      "count": 1
+    },
+    "ZA": {
+      "offset": 295119,
+      "count": 62
+    },
+    "ZM": {
+      "offset": 298442,
+      "count": 10
+    },
+    "ZW": {
+      "offset": 299015,
+      "count": 9
+    }
+  }
+}
