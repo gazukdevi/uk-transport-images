@@ -1,10 +1,10 @@
 {
   "trackers": {
       "launcher": {
-    "version":  "9.7.1",
+    "version":  "9.8",
     "url":  "https://gazukdevi.github.io/uk-transport-images/firmware/launcher.bin",
-    "size":  1272784,
-    "md5":  "1ab8d2007ccbf210cc0405f77bda5135"
+    "size":  1275712,
+    "md5":  "dbec7e4868ea3a72f2473221541f4bda"
     },
       "train": {
     "version":  "9.13",
