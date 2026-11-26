@@ -1,28 +1,28 @@
 {
   "trackers": {
       "launcher": {
-    "version":  "10.8",
+    "version":  "10.9",
     "url":  "https://gazukdevi.github.io/uk-transport-images/firmware/launcher.bin",
-    "size":  1276976,
-    "md5":  "042d3f1adc9226ee91b6f2a07b5ef6ee"
+    "size":  1278384,
+    "md5":  "023f1b3d2d486b552a295fefa54b94f5"
     },
       "train": {
-    "version":  "10.0",
+    "version":  "10.1",
     "url":  "https://gazukdevi.github.io/uk-transport-images/firmware/train.bin",
-    "size":  1312224,
-    "md5":  "07c76a67f8363056707ed8284cbdfb80"
+    "size":  1311648,
+    "md5":  "0c3ddf73180d588fceeed2e2ea3767d6"
 	},
       "bus": {
-    "version":  "10.1",
+    "version":  "10.2",
     "url":  "https://gazukdevi.github.io/uk-transport-images/firmware/bus.bin",
-    "size":  1370320,
-    "md5":  "ba100cb0460be0e248740c9a269a9b0e"
+    "size":  1370432,
+    "md5":  "5831802ab8566a60732fffdb7f4aad24"
     },
       "aircraft": {
-    "version":  "12.7",
+    "version":  "12.8",
     "url":  "https://gazukdevi.github.io/uk-transport-images/firmware/aircraft.bin",
-    "size":  1303792,
-    "md5":  "702fea41a6c443050c801274a32fee85"
+    "size":  1304608,
+    "md5":  "6f4a9cb802d5f3d05ca703bc8be8a6a9"
     },
 	  "airport": {
     "version":  "1.1",
